@@ -4,7 +4,7 @@ description: >- # site description
   This is the place I write about my learnings. <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Europe/Berlin # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/kamal.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/kamal-github/Kamal-Blog # site repo [optional]
 mode: dark # default theme "dark" | "light"
 

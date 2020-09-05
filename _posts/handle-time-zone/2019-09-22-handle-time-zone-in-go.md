@@ -9,8 +9,8 @@ categories: go
 Many beginner developers get confused in dealing with timezones. This article explains -  
   
 
- -    How to store them in DB?
- -    How to parse them in Go?
+ - How to store them in DB?
+ - How to parse them in Go?
 
   
 When timezone is stored in the DB, always stick to one standard timezone, the ideal would be to save UTC time and while presenting them, convert it to various timezones as per requirement.  
