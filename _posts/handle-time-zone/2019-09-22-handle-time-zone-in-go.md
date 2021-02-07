@@ -24,8 +24,8 @@ In this article, I will use DATETIME for example.
 
 Now, the other and most important thing is to read and convert it into any timezone.
 
-Below is an example of how we can achieve this in Go. Let’s first define a map from country to [IANA identifiers](https://www.iana.org/time-zone) and some utility functions.
-
+Below is an example of how we can achieve this in Go. Let’s first define a map from country to [IANA identifiers](https://www.iana.org/time-zones) and some utility functions.
+s
 {% highlight go %}
 package main
 
